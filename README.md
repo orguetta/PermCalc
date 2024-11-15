@@ -1,6 +1,6 @@
 PermCalc
 
-Logo: (img/apple-touch-icon.png)
+Logo: ![Logo](img/apple-touch-icon.png)
 
 PermCalc is a standalone Linux permissions calculator designed for simplicity and ease of use. It requires no dependencies and runs entirely in a single index.html file.
 
