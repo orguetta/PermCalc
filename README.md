@@ -9,17 +9,18 @@
 ---------------------------
 
 This tool allows users to:
+
 	•	Quickly look up file and directory permissions based on umask values.
 	•	Customize access levels for owners, groups, and others using an intuitive interface.
 	•	Generate the corresponding umask command for easy application.
 
-Features
+Features:
 
 	•	Standalone: No dependencies or setup required. Just open index.html in your browser.
 	•	Interactive: User-friendly interface for calculating and understanding permissions.
 	•	Portable: Lightweight and perfect for quick reference or educational purposes.
 
-How to Use
+How to Use:
 
 	1.	Download the repository.
 	2.	Open index.html in your browser.
